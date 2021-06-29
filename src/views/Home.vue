@@ -1,7 +1,7 @@
 <template>
   <div class="home">
     <img alt="Vue logo" src="../assets/logo.png" />
-    <HelloWorld msg="GitHub Pages로 배포중 ~_~" />
+    <HelloWorld msg="테스트 성공" />
   </div>
 </template>
 
